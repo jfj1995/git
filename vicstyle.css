@@ -1,0 +1,34 @@
+/* My Horizontal Rule*/
+h1{
+    color: #A0C3F8;
+    font-family: "Cambria", Times, serif;
+}
+
+.myH1{
+    color: #A0C3F8;
+    font-family: "Verdana", Times, serif;
+}
+
+#myh1{
+    color: #A0C3F8;
+    font-family: "Verdana", Times, serif;
+}
+
+#gfont{
+    color: white;
+    font-family: "Verdana", Times, serif;
+}
+
+a{
+    color: red;
+}
+
+.inicio{
+    margin-left: 250px;
+    background-color: #504E48;
+    width: 800px;
+    height:1000px;
+}
+body{
+    background-color: #000000;
+}
